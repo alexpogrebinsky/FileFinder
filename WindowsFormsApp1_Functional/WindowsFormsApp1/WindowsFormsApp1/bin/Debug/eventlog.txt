@@ -1,0 +1,345 @@
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 9:13:17 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:11:00 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:18:44 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:30:28 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:34:51 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:34:54 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:34:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:35:27 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:35:34 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:35:42 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:35:58 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:36:00 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:36:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:36:09 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:36:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:36:57 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:46:00 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:46:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:46:10 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:47:32 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:47:51 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:48:41 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:48:52 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:48:53 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:50:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:50:57 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:50:57 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:09 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:09 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:10 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:10 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:10 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:10 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:11 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:11 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:13 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:13 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:51:19 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:51:19 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:52:45 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:52:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:53:44 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:53:46 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 10:53:52 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 10:53:57 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:33:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:33:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:33:09 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:33:12 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:33:13 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:33:13 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:33:33 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:33:34 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:33:34 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:33:42 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:33:42 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:33:43 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:33:52 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:33:52 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:33:52 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:34:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:34:13 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:34:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:34:17 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:34:17 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:34:18 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:52:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:52:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:52:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:52:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:52:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:52:19 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:52:31 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:52:31 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:52:31 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:52:41 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:52:42 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:52:43 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:52:45 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:52:45 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:53:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:53:15 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:53:16 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:53:16 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:53:55 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:53:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:53:56 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:14 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:15 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:15 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:15 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:46 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:46 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:46 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:47 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:48 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:54:50 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:03 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:04 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:05 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:06 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:07 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\002.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\005.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\Alex\Desktop\HW16\test.txt' because it is being used by another process.-3/19/2018 11:55:08 PM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:08:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:08:22 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:08:26 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:22 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:26 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:27 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:27 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:27 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:28 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:12:28 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:38 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:39 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:40 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:40 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:40 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:12:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:14:52 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:04 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:04 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:05 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:08 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:08 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:08 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:09 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:09 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:30 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:34 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:40 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:40 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:45 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:47 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:48 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:48 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:49 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:49 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:51 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:15:51 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:17:54 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:17:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:03 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:07 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:17 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:18:23 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:05 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:06 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:06 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:12 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:12 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:12 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:17 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:21 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:26 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:31 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:32 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:34 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:34 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:34 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:21:34 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:56 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:56 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:56 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:56 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:58 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:58 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:58 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:58 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:23:59 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:24:00 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:24:00 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:24:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\Hello I'm text.txt' because it is being used by another process.-3/20/2018 9:24:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:26:42 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:26:42 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:26:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:26:50 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:26:51 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:23 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:23 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:24 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:24 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:25 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:25 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:25 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\xmlfiles.xml' because it is being used by another process.-3/20/2018 9:28:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:29:01 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:29:07 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:29:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:30:55 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:30:56 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:31:09 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:31:10 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:31:11 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:33:07 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:33:12 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:33:33 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:44:57 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:44:58 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:45:41 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:48:20 AM
+Error in the searchFileThe process cannot access the file 'C:\Users\ClevelandCodes\Desktop\HW16\002.txt' because it is being used by another process.-3/20/2018 9:59:22 AM
